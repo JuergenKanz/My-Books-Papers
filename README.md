@@ -41,4 +41,6 @@ von Rajeev Athavale und Jürgen Kanz
 
 [TOC Thinking and Management Trends, (2017)](https://github.com/JuergenKanz/My-Books-Papers/blob/0b77f395bd7a320ace4be045e758dd552f6b4665/Kanz_31_TOCPA_Finland_9%20Mar%202017%234.pdf)
 
+[The big slogan and the potential real value of Industry 4.0](https://elischragenheim.com/2018/10/01/the-big-slogan-and-the-potential-real-value-of-industry-4-0/)
+
 Videos of the presentations are available on request.
