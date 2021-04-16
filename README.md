@@ -1,4 +1,4 @@
-# My-Books&Papers
+# My-Books-Papers
 ## Overview of my published books
 
 I have published three books related to the TOC - Theory Of Constraints in German language. Here are the links to the landing pages on LeanPub:
