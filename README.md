@@ -35,9 +35,9 @@ von Rajeev Athavale und Jürgen Kanz
 ***______________________________________________________________________________________________________________*** 
 ***______________________________________________________________________________________________________________*** 
   
-## Overview of recent papers and videos
+## Overview of recent papers
 
-Industry 4.0 - Overview and TOC Opportunities, (2016)
+[Industry 4.0 - Overview and TOC Opportunities, (2016)](https://github.com/JuergenKanz/My-Books-Papers/blob/4b0d9044a9aeb0a7dd512dbd0a1457e135de6b19/Kanz_29%20TOCPA_11-12%20Nov%202016_Vilnius_Handout.pdf)
 
 TOC Thinking and Management Trends, (2017)
 
