@@ -1,4 +1,4 @@
-# My-Books-Papers-Videos
+# My-Books&Papers
 ## Overview of my published books
 
 I have published three books related to the TOC - Theory Of Constraints in German language. Here are the links to the landing pages on LeanPub:
@@ -37,8 +37,8 @@ von Rajeev Athavale und Jürgen Kanz
   
 ## Overview of recent papers and videos
 
-Industry 4.0 - Overview and TOC Opportunities, (2016) , PDF , MP4 Video
+Industry 4.0 - Overview and TOC Opportunities, (2016)
 
-TOC Thinking and Management Trends, (2017) , PDF , MP4 Video
+TOC Thinking and Management Trends, (2017)
 
-
+Videos of the presentations are available on request.
