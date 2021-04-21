@@ -43,6 +43,8 @@ von Rajeev Athavale und Jürgen Kanz
 
 [The big slogan and the potential real value of Industry 4.0, (2018)](https://elischragenheim.com/2018/10/01/the-big-slogan-and-the-potential-real-value-of-industry-4-0/)
 
+[A notebook about the results of Deep Learning with real world data, (2019)](https://www.notebookarchive.org/a-notebook-about-the-results-of-deep-learning-with-real-world-data--2019-01-6genez1/)
+
 
 Presentation videos are available on request.
 
