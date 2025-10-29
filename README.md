@@ -6,7 +6,7 @@ I have published four books related to the TOC - Theory Of Constraints in German
 
   
   
- 
+![ebook TopManager](ebook_TocForTopManagers.jpg)  
 ***TOC kompakt für Top Manager***  
 von Rajeev Athavale und Jürgen Kanz  
   
