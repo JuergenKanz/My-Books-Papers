@@ -1,10 +1,20 @@
 # My-Books-Papers
 ## Overview of my published books
 
-I have published three books related to the TOC - Theory Of Constraints in German language. Here are the links to the landing pages on LeanPub:
+I have published four books related to the TOC - Theory Of Constraints in German language. Here are the links to the landing pages on LeanPub:
   
 
-    
+  
+  
+![ebook TopManager](ebook_TocForTopManagers.jpg)  
+***TOC kompakt für Top Manager***  
+von Rajeev Athavale und Jürgen Kanz  
+  
+<https://leanpub.com/germantocdiymanufacturing>  
+  
+***______________________________________________________________________________________________________________*** 
+  
+      
 ![ebook projects](ebook_projekte.jpg)  
 ***Theory of Constraints - PROJEKTE - Ein DO-IT-YOURSELF Baukasten für Kleine und Mittlere Unternehmen (KMU).***  
 Eine Schritt-für-Schritt-Anleitung für Unternehmer, Manager, Berater und Umsetzungsspezialisten.  
